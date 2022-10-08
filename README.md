@@ -30,15 +30,9 @@ A repo containing all my self taught programs that I wrote to advance my skills 
 
 **SELF TAUGHT** is a repo containing my personal projects that have worked on to help my studies in programming and security.
 
-## C Projects[![](./assets/img/pin.svg)](#c)
-<table>
-  <tr>
-    <td nowrap><strong>![Functions](./c/functions)</strong></td>
-  </tr>
-  <tr>
-    <td nowrap><strong>![Projects](./c/projects)</strong></td>
-  </tr>
-</table>
+## C Projects Table of contents[![](./assets/img/pin.svg)](#c)
+1. [Functions](#c)
+   - [print-function-arguments](./c/functions/)
 
 ---
 
