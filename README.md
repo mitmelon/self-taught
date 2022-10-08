@@ -32,7 +32,7 @@ A repo containing all my self taught programs that I wrote to advance my skills 
 
 ## C Projects Table of contents[![](./assets/img/pin.svg)](#c)
 1. [Functions](#c)
-   - [print-function-arguments](./c/functions/)
+   - [print-function-arguments](./c/functions/print-function-arguments.c)
 
 ---
 
