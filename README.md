@@ -1,7 +1,7 @@
 # self-taught
 
 <h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
-<a name="logo" href="https://www.aregtech.com"><img align="center" src="/assets/img/brand.png" alt="Self Taught Home" style="width:100%;height:100%"/></a>
+<a name="logo" href="mail:manomitehq@gmail.com"><img align="center" src="/assets/img/brand.png" alt="Self Taught Home" style="width:40%;height:40%"/></a>
   <br><br><strong>SELF TAUGHT PROJECTS</strong>
 </h1>
 
