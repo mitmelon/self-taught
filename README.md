@@ -33,10 +33,10 @@ A repo containing all my self taught programs that I wrote to advance my skills 
 ## C Projects[![](./assets/img/pin.svg)](#c)
 <table>
   <tr>
-    <td nowrap><strong>[Functions](./c/functions)</strong></td>
+    <td nowrap><strong>![Functions](./c/functions)</strong></td>
   </tr>
   <tr>
-    <td nowrap><strong>[Projects](./c/projects)</strong></td>
+    <td nowrap><strong>![Projects](./c/projects)</strong></td>
   </tr>
 </table>
 
